@@ -1,4 +1,4 @@
-# 🛡️ Advanced Spam Detection System
+# 🛡️ Fkae Review Detection System
 
 A sophisticated machine learning-powered web application that detects spam and fake reviews with high accuracy, featuring an interactive 5-star rating analysis system.
 
