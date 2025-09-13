@@ -261,5 +261,6 @@ streamlit run streamlit_app.py --server.port 8501
 3. Deploy directly from repository
 
 
+<img width="1792" height="830" alt="image" src="https://github.com/user-attachments/assets/3c848aa8-6d3a-49bb-9e93-ee5394e08c72" />
 
 Start detecting spam like a pro! 🕵️‍♂️✨"# Fake-review-Detection" 
