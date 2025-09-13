@@ -1,0 +1,5 @@
+{
+  "model_name": "logistic_regression",
+  "accuracy": 0.890625,
+  "status": "testing_version"
+}

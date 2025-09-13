@@ -1,0 +1,5 @@
+Collecting unidecode
+  Using cached Unidecode-1.4.0-py3-none-any.whl.metadata (13 kB)
+Using cached Unidecode-1.4.0-py3-none-any.whl (235 kB)
+Installing collected packages: unidecode
+Successfully installed unidecode-1.4.0
